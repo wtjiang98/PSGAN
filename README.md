@@ -34,7 +34,7 @@ If you are using gpu for inference, *do* make sure you have gpu support for dlib
 Run `python3 demo.py` or `python3 demo.py --device cuda` for gpu inference.
 
 
-# Train
+## Train
 1. Download training data from [here](https://1drv.ms/u/s!AgqNJZCiLRDCgaU5xb5dpnDc-jqJiQ?e=Js7qCi),
 and move it to sub directory named with "data".
 
