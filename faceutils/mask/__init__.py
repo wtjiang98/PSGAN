@@ -1,3 +1,3 @@
 #!/usr/bin/python
 # -*- encoding: utf-8 -*-
-from .main import mask
+from .main import FaceParser
