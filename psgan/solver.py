@@ -368,7 +368,7 @@ class Solver(Track):
                     self.save_models()
 
                 if (self.i % 100 == 99):
-                    plot_fig.flush(self.task_name)
+                    plot_fig.flush(self.log_path)
 
                 plot_fig.tick()
 
