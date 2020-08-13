@@ -35,7 +35,7 @@ Run `python3 demo.py` or `python3 demo.py --device cuda` for gpu inference.
 
 
 ## Train
-1. Download training data from [here](https://1drv.ms/u/s!AgqNJZCiLRDCgaYWgH5Pe5ppH3qc4w?e=jCnods),
+1. Download training data from [here](https://1drv.ms/u/s!AgqNJZCiLRDCgaZD5Qa9x4-IX32CHg?e=01uw7C),
 and move it to sub directory named with "data".
 
 Your data directory should be looked like:
