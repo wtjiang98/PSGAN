@@ -36,7 +36,8 @@ Run `python3 demo.py` or `python3 demo.py --device cuda` for gpu inference.
 
 ## Train
 1. Download training data from [here](https://1drv.ms/u/s!AgqNJZCiLRDCgaZD5Qa9x4-IX32CHg?e=01uw7C),
-and move it to sub directory named with "data".
+and move it to sub directory named with "data". (For BaiduYun users, you can download the data [here](https://pan.baidu.com/s/1ZF-DN9PvbBteOSfQodWnyw). Password: rtdd)
+
 
 Your data directory should be looked like:
 
@@ -82,11 +83,12 @@ adopted gpus and batch size are supposed to be the same.
 Please consider citing this project in your publications if it helps your research. The following is a BibTeX reference. The BibTeX entry requires the url LaTeX package.
 
 ~~~
-@inproceedings{jiang2019psgan,
-  title={PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer},
-  author={Jiang, Wentao and Liu, Si and Gao, Chen and Cao, Jie and He, Ran and Feng, Jiashi and Yan, Shuicheng},
-  booktitle={CVPR},
-  year={2020}
+@InProceedings{Jiang_2020_CVPR,
+  author = {Jiang, Wentao and Liu, Si and Gao, Chen and Cao, Jie and He, Ran and Feng, Jiashi and Yan, Shuicheng},
+  title = {PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2020}
 }
 ~~~
 
