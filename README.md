@@ -40,7 +40,7 @@ Run `python3 demo.py` or `python3 demo.py --device cuda` for gpu inference.
 
 
 ## Train
-1. Download training data from [here](https://buaaeducn-my.sharepoint.com/:u:/g/personal/jiangwentao_buaa_edu_cn/EeqWl5b3gRBNv14pYN0m-LkB0GzGXVUCRapXOjPYGpTfug?e=Mwv5EE),
+1. Download training data from [link_1](https://buaaeducn-my.sharepoint.com/:u:/g/personal/jiangwentao_buaa_edu_cn/EeqWl5b3gRBNv14pYN0m-LkB0GzGXVUCRapXOjPYGpTfug?e=Mwv5EE) or [link_2](https://1drv.ms/u/s!AgqNJZCiLRDCgaZDG_lZxuSQa6X7UQ),
 and move it to sub directory named with "data". (For BaiduYun users, you can download the data [here](https://pan.baidu.com/s/1ZF-DN9PvbBteOSfQodWnyw). Password: rtdd)
 
 
