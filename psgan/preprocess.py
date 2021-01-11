@@ -97,10 +97,6 @@ class PreProcess:
         return lms * self.img_size
 
     def process(self, mask, lms, device="cpu"):
-        diff = to_var(
-            (self.fix.double() - torch.tensor(lms.transpose((1, 0)
-                ).reshape(-1, 1, 1)).to(self.device)
-            ).unsqueeze(0), requires_grad=False).to(self.device)
 
         lms_eye_left = lms[42:48]
         lms_eye_right = lms[36:42]
