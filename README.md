@@ -29,11 +29,6 @@ For face parsing and landmark detection, we use dlib for fast implementation.
 If you are using gpu for inference, *do* make sure you have gpu support for dlib.
 
 
-## Our newly collected Makeup-Wild dataset
-
-1. Download the Makeup-Wild (MT-Wild) dataset [here](https://buaaeducn-my.sharepoint.com/:u:/g/personal/jiangwentao_buaa_edu_cn/EcRNkF2bFY9AomfMfyd_B2ABUyZ7PtSeYoqFJKJbVvwMHg?e=PScTNw
-)
-
 ## Test
 
 Run `python3 demo.py` or `python3 demo.py --device cuda` for gpu inference.
