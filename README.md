@@ -89,6 +89,17 @@ Please consider citing this project in your publications if it helps your resear
   month = {June},
   year = {2020}
 }
+
+@article{liu2021psgan++,
+  title={PSGAN++: robust detail-preserving makeup transfer and removal},
+  author={Liu, Si and Jiang, Wentao and Gao, Chen and He, Ran and Feng, Jiashi and Li, Bo and Yan, Shuicheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={11},
+  pages={8538--8551},
+  year={2021},
+  publisher={IEEE}
+}
 ~~~
 
 ## Acknowledge
